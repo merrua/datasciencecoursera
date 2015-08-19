@@ -11,3 +11,13 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# 
+log/
+tmp/
+db/
+ssh/*
+
+*.ssh
+*.tmp
+*.log
